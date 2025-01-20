@@ -75,3 +75,5 @@ Conclusion
 This project is a simple implementation of an arithmetic expression evaluator, which is a fundamental concept in the design of compilers. The program parses arithmetic expressions, handles operator precedence, processes parentheses, and performs arithmetic operations. The solution demonstrates basic concepts like tokenization, operator precedence, and error handling, making it a great introduction to parsing and expression evaluation. The program is designed to handle common cases and can be extended to manage more complex expressions and error scenarios.
 
 #OUTPUT OF THE TASK:
+
+![Image](https://github.com/user-attachments/assets/c500fe78-0202-4342-93dd-6d9d54633efd)
